@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am currently a PhD student in [Stony Brook University](https://stonybrook.edu/).
+
+See more in [my personal page](https://andrewsher.github.io/).
+
 <!--
 **Andrewsher/Andrewsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
