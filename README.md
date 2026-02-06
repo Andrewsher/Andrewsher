@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am currently a PhD student in [Stony Brook University](https://stonybrook.edu/).
+I am currently a PhD student at Stony Brook University. My research focuses on machine learning-based medical image analysis, particularly radiological image synthesis, computational pathology, and data-driven models for medical imaging.
 
-See more in [my personal page](https://andrewsher.github.io/).
+See more in my [personal page](https://andrewsher.github.io/) and my [Google Scholar page](https://scholar.google.com/citations?user=H6mDo6MAAAAJ).
 
 <!--
 **Andrewsher/Andrewsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
